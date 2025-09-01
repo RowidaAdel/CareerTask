@@ -1,0 +1,5 @@
+@import "flowbite/src/themes/default";
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}

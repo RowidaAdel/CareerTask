@@ -1,4 +1,4 @@
-# Responsive Landing Page - React.js (Next.js) Test Project
+# Responsive Landing Page - React.js Test Project
 
 This project is a **responsive landing page** built with **React.js (Next.js)**, styled using **Tailwind CSS**, based on a Figma design provided for a front-end developer evaluation.  
 The goal was to demonstrate clean code structure, responsiveness, attention to design details, and component-based development.
